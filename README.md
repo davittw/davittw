@@ -4,8 +4,8 @@ i intend to be a full-stack software engineer, i have a lot of ambitions.
 <br>i love programming, reading, traveling and listening to music.
 i hope you like what you see here, it's just the beginning.
    
-[![Twitter Badge](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davittiw)
-![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![Twitter Badge](	https://img.shields.io/badge/Twitter-06804D?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davittiw)
+![Discord Badge](https://img.shields.io/badge/Discord-17941E?style=for-the-badge&logo=discord&logoColor=white)
 
 <div>
     <img src="https://user-images.githubusercontent.com/110313699/182006278-4a873026-699b-42c6-8268-2167dddc61a0.gif" target="autoplay" align="right" width="370"/>
