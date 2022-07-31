@@ -8,7 +8,7 @@ i hope you like what you see here, it's just the beginning.
 ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 <div>
-    <img src="https://user-images.githubusercontent.com/110313699/182005706-bb2e3f10-d52a-4ac5-b2ff-b35cafb25bd0.svg" align="right" width="250"/>
+    <img src="https://user-images.githubusercontent.com/110313699/182006278-4a873026-699b-42c6-8268-2167dddc61a0.gif" target="autoplay" align="right" width="370"/>
   
 **about me**
 
